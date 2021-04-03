@@ -1,0 +1,166 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "NudgeApi.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NudgeApi.DataContracts": "1.0.0",
+          "NudgeApi.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NudgeApi.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NudgeApi.Contracts.dll": {}
+        }
+      },
+      "NudgeApi.DataContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NudgeApi.DataContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NudgeApi.DataContracts.dll": {}
+        }
+      },
+      "NudgeApi.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/NudgeApi.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NudgeApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "sha512": "ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "NudgeApi.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../NudgeApi.Contracts/NudgeApi.Contracts.csproj",
+      "msbuildProject": "../NudgeApi.Contracts/NudgeApi.Contracts.csproj"
+    },
+    "NudgeApi.DataContracts/1.0.0": {
+      "type": "project",
+      "path": "../NudgeApi.DataContracts/NudgeApi.DataContracts.csproj",
+      "msbuildProject": "../NudgeApi.DataContracts/NudgeApi.DataContracts.csproj"
+    },
+    "NudgeApi.Models/1.0.0": {
+      "type": "project",
+      "path": "../NudgeApi.Models/NudgeApi.Models.csproj",
+      "msbuildProject": "../NudgeApi.Models/NudgeApi.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
+      "NudgeApi.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ganesh_gadekar\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\workspace\\api\\test\\nudgeapi\\NudgeApi.Providers\\NudgeApi.Providers.csproj",
+      "projectName": "NudgeApi.Providers",
+      "projectPath": "C:\\workspace\\api\\test\\nudgeapi\\NudgeApi.Providers\\NudgeApi.Providers.csproj",
+      "packagesPath": "C:\\Users\\ganesh_gadekar\\.nuget\\packages\\",
+      "outputPath": "C:\\workspace\\api\\test\\nudgeapi\\NudgeApi.Providers\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ganesh_gadekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://cltsenvironments.loyaltytravelservices.com/NuGetServer/nuget": {},
+        "http://stage-packagegallery.tavisca.com/api/odata": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.cnxloyalty.com/api/v2": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\workspace\\api\\test\\nudgeapi\\NudgeApi.Contracts\\NudgeApi.Contracts.csproj": {
+              "projectPath": "C:\\workspace\\api\\test\\nudgeapi\\NudgeApi.Contracts\\NudgeApi.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

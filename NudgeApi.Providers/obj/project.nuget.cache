@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvVtcqBkLM/YI06eNBVeLzBQDJm4Dsvasf89Jnpup+NFgjGE5bdg+JvVw34KfH6uV+uYQrvdw5Com6Yd8vFKXQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\api\\test\\nudgeapi\\NudgeApi.Providers\\NudgeApi.Providers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganesh_gadekar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

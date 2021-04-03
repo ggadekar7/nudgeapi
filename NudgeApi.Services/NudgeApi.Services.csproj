@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NudgeApi.Contracts\NudgeApi.Contracts.csproj" />
+    <ProjectReference Include="..\NudgeApi.Models\NudgeApi.Models.csproj" />
+  </ItemGroup>
+
+</Project>

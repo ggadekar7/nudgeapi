@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NudgeApi.Contracts/1.0.0": {
+        "dependencies": {
+          "NudgeApi.DataContracts": "1.0.0",
+          "NudgeApi.Models": "1.0.0"
+        },
+        "runtime": {
+          "NudgeApi.Contracts.dll": {}
+        }
+      },
+      "NudgeApi.DataContracts/1.0.0": {
+        "runtime": {
+          "NudgeApi.DataContracts.dll": {}
+        }
+      },
+      "NudgeApi.Models/1.0.0": {
+        "runtime": {
+          "NudgeApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NudgeApi.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NudgeApi.DataContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NudgeApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

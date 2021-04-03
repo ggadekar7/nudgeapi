@@ -1,0 +1,9 @@
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\bin\Debug\netcoreapp3.1\NudgeApi.Models.deps.json
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\bin\Debug\netcoreapp3.1\NudgeApi.Models.dll
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\bin\Debug\netcoreapp3.1\NudgeApi.Models.pdb
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\obj\Debug\netcoreapp3.1\NudgeApi.Models.csprojAssemblyReference.cache
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\obj\Debug\netcoreapp3.1\NudgeApi.Models.AssemblyInfoInputs.cache
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\obj\Debug\netcoreapp3.1\NudgeApi.Models.AssemblyInfo.cs
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\obj\Debug\netcoreapp3.1\NudgeApi.Models.csproj.CoreCompileInputs.cache
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\obj\Debug\netcoreapp3.1\NudgeApi.Models.dll
+C:\workspace\api\test\nudgeapi\NudgeApi.Models\obj\Debug\netcoreapp3.1\NudgeApi.Models.pdb

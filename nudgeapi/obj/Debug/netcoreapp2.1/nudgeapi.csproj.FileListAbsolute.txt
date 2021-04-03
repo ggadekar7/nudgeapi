@@ -1,0 +1,4 @@
+C:\workspace\api\test\nudgeapi\nudgeapi\obj\Debug\netcoreapp2.1\nudgeapi.csprojAssemblyReference.cache
+C:\workspace\api\test\nudgeapi\nudgeapi\obj\Debug\netcoreapp2.1\nudgeapi.AssemblyInfoInputs.cache
+C:\workspace\api\test\nudgeapi\nudgeapi\obj\Debug\netcoreapp2.1\nudgeapi.AssemblyInfo.cs
+C:\workspace\api\test\nudgeapi\nudgeapi\obj\Debug\netcoreapp2.1\nudgeapi.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.Contracts.dll
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.DataContracts.dll
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.Models.dll
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\obj\Debug\netcoreapp3.1\NudgeApi.Services.csprojAssemblyReference.cache
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\obj\Debug\netcoreapp3.1\NudgeApi.Services.AssemblyInfoInputs.cache
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\obj\Debug\netcoreapp3.1\NudgeApi.Services.AssemblyInfo.cs
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.Services.deps.json
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.Services.dll
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.Services.pdb
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.Contracts.pdb
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.Models.pdb
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\bin\Debug\netcoreapp3.1\NudgeApi.DataContracts.pdb
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\obj\Debug\netcoreapp3.1\NudgeApi.Services.csproj.CopyComplete
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\obj\Debug\netcoreapp3.1\NudgeApi.Services.dll
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\obj\Debug\netcoreapp3.1\NudgeApi.Services.pdb
+C:\workspace\api\test\nudgeapi\NudgeApi.Services\obj\Debug\netcoreapp3.1\NudgeApi.Services.csproj.CoreCompileInputs.cache

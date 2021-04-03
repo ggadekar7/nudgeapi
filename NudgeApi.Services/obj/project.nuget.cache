@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kA88WlTQRxz51H7om7XnmLjFGDaZBv1r70KAd0j4JG57Emtx9PZbUsKTVGmtw9BuwVeGBqvzucSDaX+9PdvxBQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\api\\test\\nudgeapi\\NudgeApi.Services\\NudgeApi.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganesh_gadekar\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\ganesh_gadekar\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
